@@ -1,0 +1,13 @@
+{
+    "name": "udavikhin/useless-facts-api-client",
+    "description": "A client for Useless Facts API",
+    "type": "library",
+    "require": {
+        "guzzlehttp/guzzle": "^7.8"
+    },
+    "autoload": {
+        "psr-4": {
+            "Udavikhin\\UselessFactsApiClient\\": "src/"
+        }
+    }
+}
