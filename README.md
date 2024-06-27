@@ -1,7 +1,7 @@
 # useless-facts-api-client
 
 ## Requirements
-- PHP 8.2
+- PHP >= 7.2.5
 
 ## Installation
 
