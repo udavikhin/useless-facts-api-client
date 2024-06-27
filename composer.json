@@ -3,6 +3,7 @@
     "description": "A client for Useless Facts API",
     "type": "library",
     "require": {
+        "php": ">=7.2.5",
         "guzzlehttp/guzzle": "^7.8"
     },
     "autoload": {
